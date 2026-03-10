@@ -1,7 +1,7 @@
 # Hi, I'm Brian 👋
 
 ## About Me
-I am an undergraduate student who studies AI and Computer Science in The University of Edinburgh interested in software development and large language models
+I am a second-year BSc Artificial Intelligence and Computer Science student at the University of Edinburgh who is passionate about machine learning, software development, and large language models.
 
 ## Skills
 - Python
