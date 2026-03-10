@@ -1,5 +1,17 @@
-## Hi there 👋
+# Hi, I'm Brian 👋
 
+## About Me
+I am an undergraduate student who studies AI and Computer Science in The University of Edinburgh interested in software development and large language models
+
+## Skills
+- Python
+- Java
+- C++
+- and so on...
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/jingkun-qian/
+- Email: qjkblizzard@163.com
 <!--
 **StayDefault/StayDefault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
