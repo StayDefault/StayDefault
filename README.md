@@ -1,7 +1,9 @@
 # Hi, I'm Brian 👋
 
 ## About Me
-I am a second-year BSc Artificial Intelligence and Computer Science student at the University of Edinburgh who is passionate about machine learning, software development, and large language models.
+I am a second-year BSc Artificial Intelligence and Computer Science student at the University of Edinburgh with a strong interest in machine learning, software development, and large language models.
+
+I am passionate about building intelligent systems and exploring how modern AI techniques can be applied to real-world problems. Through my academic studies and personal projects, I enjoy developing practical software solutions, experimenting with machine learning models, and deepening my understanding of the theory behind modern AI systems.
 
 ### Programming Languages 🌐
 
