@@ -17,9 +17,10 @@ I am passionate about building intelligent systems and exploring how modern AI t
 
 ### Tools 🛠️
 
-| VS Code | IntelliJ IDEA | Jira | Anaconda | Jupyter Notebook | Git |
-|---|---|---|---|---|---|
-| [<img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="vscode logo" width="30">](https://code.visualstudio.com/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij logo" width="30">](https://www.jetbrains.com/idea/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira logo" width="30">](https://www.atlassian.com/software/jira) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda logo" width="30">](https://www.anaconda.com/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter logo" width="30">](https://jupyter.org/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" width="30">](https://git-scm.com/) |
+| VS Code | IntelliJ IDEA | Jira | Anaconda | Jupyter Notebook | Git | NVIDIA Isaac Sim | RViz |
+|---|---|---|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="vscode logo" width="30">](https://code.visualstudio.com/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij logo" width="30">](https://www.jetbrains.com/idea/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira logo" width="30">](https://www.atlassian.com/software/jira) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda logo" width="30">](https://www.anaconda.com/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter logo" width="30">](https://jupyter.org/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" width="30">](https://git-scm.com/) | [<img src="https://img.shields.io/badge/Isaac_Sim-76B900?logo=nvidia&logoColor=white" alt="NVIDIA Isaac Sim badge">](https://developer.nvidia.com/isaac/sim/) | [<img src="https://img.shields.io/badge/RViz-22314E?logo=ros&logoColor=white" alt="RViz badge">](https://github.com/ros2/rviz) |
+
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/jingkun-qian/
