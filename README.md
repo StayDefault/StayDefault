@@ -5,7 +5,7 @@ I am a third-year BSc Artificial Intelligence and Computer Science student at th
 
 I am passionate about building intelligent systems and exploring how modern AI techniques can be applied to real-world problems. Through my academic studies and personal projects, I enjoy developing practical software solutions, experimenting with machine learning models, and deepening my understanding of the theory behind modern AI systems.
 
-[**Download my CV (PDF)**](https://github.com/StayDefault/StayDefault/raw/refs/heads/main/Jingkun_Qian_CV.pdf)
+[**Download my CV (PDF)**](https://raw.githubusercontent.com/StayDefault/StayDefault/main/Jingkun_Qian_CV.pdf)
 
 ### Programming Languages 🌐
 
